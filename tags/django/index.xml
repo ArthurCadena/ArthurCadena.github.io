@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Django on SmileySoft</title>
+    <link>https://arthurcadena.github.io/tags/django/</link>
+    <description>Recent content in Django on SmileySoft</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 05 Oct 2022 23:28:57 -0500</lastBuildDate><atom:link href="https://arthurcadena.github.io/tags/django/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Generador de Passwords con Django</title>
+      <link>https://arthurcadena.github.io/post/generador-de-contrase%C3%B1as-django/</link>
+      <pubDate>Wed, 05 Oct 2022 23:28:57 -0500</pubDate>
+      
+      <guid>https://arthurcadena.github.io/post/generador-de-contrase%C3%B1as-django/</guid>
+      <description>Generador de contraseñas con Django y Bootstrap Este proyecto es una pequeño ejercicio de Django, se trata de un generador de contraseñas, que puede elegirse al gusto del usuario, realiza contraseñas de entre 6 a 14 caracteres(si manipulas el link puede generar de mas o menos caracteres) de forma aleatoria, puede combinar mayusculas,minusculas,numeros y caracteres especiales, no utiliza base de datoss sin embargo es un excelente ejercicio y un proyecto pequeño y entretenido espero que lo disfruten ;D!</description>
+    </item>
+    
+  </channel>
+</rss>

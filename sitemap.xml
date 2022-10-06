@@ -2,11 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://arthurcadena.github.io/</loc>
+    <lastmod>2022-10-05T23:28:57-05:00</lastmod>
+  </url><url>
+    <loc>https://arthurcadena.github.io/tags/django/</loc>
+    <lastmod>2022-10-05T23:28:57-05:00</lastmod>
+  </url><url>
+    <loc>https://arthurcadena.github.io/post/generador-de-contrase%C3%B1as-django/</loc>
+    <lastmod>2022-10-05T23:28:57-05:00</lastmod>
+  </url><url>
+    <loc>https://arthurcadena.github.io/post/</loc>
+    <lastmod>2022-10-05T23:28:57-05:00</lastmod>
+  </url><url>
+    <loc>https://arthurcadena.github.io/tags/python/</loc>
+    <lastmod>2022-10-05T23:28:57-05:00</lastmod>
+  </url><url>
+    <loc>https://arthurcadena.github.io/tags/</loc>
+    <lastmod>2022-10-05T23:28:57-05:00</lastmod>
+  </url><url>
     <loc>https://arthurcadena.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://arthurcadena.github.io/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://arthurcadena.github.io/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
@@ -23,13 +38,7 @@
     <loc>https://arthurcadena.github.io/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://arthurcadena.github.io/post/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://arthurcadena.github.io/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://arthurcadena.github.io/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://arthurcadena.github.io/tags/themes/</loc>
